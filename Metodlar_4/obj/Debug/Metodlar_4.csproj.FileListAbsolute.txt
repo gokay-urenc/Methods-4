@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\bin\Debug\Metodlar_4.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Metodlar_4\Metodlar_4\obj\Debug\Metodlar_4.pdb
